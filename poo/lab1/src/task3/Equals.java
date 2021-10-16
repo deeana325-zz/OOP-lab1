@@ -1,6 +1,6 @@
-package lab01.task3;
+package task3;
 
-import lab01.task2.Student;
+import task2.Student;
 
 public class Equals {
     public static void main(String[] args) {

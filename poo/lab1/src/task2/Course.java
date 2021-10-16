@@ -1,7 +1,7 @@
-package lab01.task2;
+package task2;
 
 import java.util.ArrayList;
-import lab01.task2.Student;
+import task2.Student;
 
 public class Course {
     private String title;
