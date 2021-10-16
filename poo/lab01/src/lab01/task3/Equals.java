@@ -1,4 +1,4 @@
-package task3;
+package lab01.task3;
 
 import lab01.task2.Student;
 
